@@ -1,0 +1,6 @@
+{
+    "ServerPort": 2096,
+    "ServerDatabaseUrl": "mongodb://192.168.2.110/api",
+    "EncryptionToken": "H47HfA7xi4w!88l%Qx!OK8Y&jg&9uoj$sxam%&m3gQ#3rrW3RP",
+    "AdminKey": "Dna6#qr4$499R!wo!%hScC2GCW9VI$3XHcauVIMY4D$6sNAm^4"
+}
